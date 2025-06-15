@@ -1,0 +1,7 @@
+ol > li{
+    text-align: justify;
+    justify-content: space-around;
+    display: inline;
+  
+    padding: 5px;
+}
